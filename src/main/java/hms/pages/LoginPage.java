@@ -37,7 +37,7 @@ public class LoginPage extends TestBase {
 	}
 	
 	public String getLoginText() {
-		System.out.println(logtxt.getText());
+		
 		return logtxt.getText();
 	}
 	
